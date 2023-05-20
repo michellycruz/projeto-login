@@ -40,3 +40,6 @@ section#login {
     border-radius: 20px;
 }
 
+section#login > div#imagem {
+    background: #026873;
+}
