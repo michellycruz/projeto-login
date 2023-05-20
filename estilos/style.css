@@ -39,11 +39,18 @@ section#login {
     width: 250px;
     height: 500px;
     border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
 }
 
 section#login > div#imagem {
+    display: block;
     background: #026873 url(../imagens/mar.jpg) no-repeat;
     background-size: cover;
     background-position: left bottom;
     height: 200px;
+}
+
+section#login > div#formulario {
+    padding: 10px;
+    display: block;
 }
