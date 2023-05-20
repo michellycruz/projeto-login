@@ -41,5 +41,5 @@ section#login {
 }
 
 section#login > div#imagem {
-    background: #026873;
+    background: #026873 url(../imagens/);
 }
