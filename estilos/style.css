@@ -67,5 +67,5 @@ div#formulario > p {
 }
 
 form > input[type=submit] {
-    
+    display: block;
 }
