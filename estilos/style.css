@@ -66,6 +66,10 @@ div#formulario > p {
     font-size: 0.8em;
 }
 
+div.campo > span{
+    font-size: 1.4em;
+}
+
 form > input[type=submit] {
     display: block;
     font-size: 1em;
@@ -96,3 +100,6 @@ form > a.botao {
 
 }
 
+form > a.botao > span {
+    font-size: 0.8em;
+}
