@@ -97,6 +97,7 @@ form > input[type=submit] {
 
 form > input[type=submit]:hover {
     background-color: #477c91;
+    color: white;
 }
 
 form > a.botao {
