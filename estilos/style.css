@@ -71,7 +71,7 @@ form > div.campo {
     display: block;
     width: 100%;
     height: 40px;
-    border-radius: 5px;
+    border-radius: 8px;
     margin: 5px 0px;
 }
 
@@ -90,7 +90,12 @@ div.campo > span {
 div.campo > input {
     background-color: #6dbddd;
     font-size: 1em;
-    width: 100%;
+    width: calc(100% - 45px);
+    height: 100%;
+    transform: translate();
+    border: 0px;
+    border-radius: 8px;
+    padding: 1px;
 }
 
 form > input[type=submit] {
